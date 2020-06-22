@@ -3,7 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package paqueteseis;
+package paquetecinco;
+
+
 
 public class EstudianteDistancia extends Estudiante {
     /*1.  Declarar
@@ -13,10 +15,6 @@ public class EstudianteDistancia extends Estudiante {
     
     int numeroAsignaturas;
     double costoAsignatura;
-
-    public EstudianteDistancia(String nombre, String apellido) {
-        super(nombre, apellido);
-    }
     
     //  Métodos establecer y calcular para los datos o atributos de la clase
     

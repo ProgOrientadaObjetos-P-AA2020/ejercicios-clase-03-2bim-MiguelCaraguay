@@ -3,7 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package paquetetres;
+package paquetecinco;
+
 
 public class EstudiantePresencial extends Estudiante{
     /*1.  Declarar
@@ -31,7 +32,7 @@ public class EstudiantePresencial extends Estudiante{
     public void calcularMatricula(){
         matricula = numeroCreditos * costoCredito;
     }
-    
+
     //  Métodos obtener para los datos o atributos de la clase
     // 5. Método obtenerNumeroCreditos() : Entero
     public int obtenerNumeroCreditos(){

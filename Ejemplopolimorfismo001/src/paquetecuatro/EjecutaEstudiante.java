@@ -19,7 +19,6 @@ public class EjecutaEstudiante {
         double costoAsig;
         int numeroAsigs;
         int tipoEstudiante;
-        String continuar;
         int contador;
         Estudiante [] estudiantes = new Estudiante[10];
 
